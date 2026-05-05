@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">短视频守护</string>
+    <string name="accessibility_service_description">检测短视频应用中的擦边内容，自动遮挡不适宜画面，保护您的浏览体验。开启后，本服务会在您使用抖音、快手、TikTok 等应用时自动分析屏幕内容。</string>
+    <string name="service_status_active">守护服务运行中</string>
+    <string name="service_status_inactive">守护服务未开启</string>
+    <string name="btn_enable_service">开启无障碍服务</string>
+    <string name="btn_disable_overlay">临时解除遮挡</string>
+    <string name="overlay_hint">检测到不适宜内容，已自动遮挡</string>
+    <string name="overlay_continue">继续滑动可切换视频</string>
+    <string name="threshold_label">检测敏感度</string>
+    <string name="threshold_low">宽松</string>
+    <string name="threshold_high">严格</string>
+    <string name="target_apps">已支持应用</string>
+    <string name="about_text">短视频守护通过 AI 图像分析技术，在您浏览短视频时自动识别并遮挡擦边内容，保留边缘滑动区域让您可以继续切换视频。</string>
+</resources>
